@@ -1,4 +1,3 @@
-Wona
 Wona means "to see" in Chichewa and Nyanja, spoken across Malawi, Zambia, and Zimbabwe.
 Wona is an open-source assistive vision system for blind and low-vision users in Africa. It runs on affordable consumer smart glasses — starting with Meta Ray-Ban — and delivers real-time audio descriptions of the surrounding environment, so users can hear what they cannot see.
 
